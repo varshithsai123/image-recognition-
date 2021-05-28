@@ -1,0 +1,78 @@
+body
+{
+font-family:'Special Elite', cursive;
+background:aqua;
+}
+
+.header_div
+{
+    background: crimson;
+    color: darkblue;
+}
+
+.header_div img
+{
+width: 100px;
+}
+
+.main_div
+{
+background: ghostwhite;
+padding: 10px;
+margin-top: 15px;
+border:3px solid red;
+}
+
+.main_div label
+{
+background: springgreen;
+width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px ghostwhite;
+}
+
+#camera
+{
+    border: 2px solid ghostwhite;
+    width: 310px;
+    height: 300px;;
+    box-shadow: 5px 5px 18px ghostwhite;
+}
+
+.main_div button
+{
+width: 310px;
+font-size: 16px;
+box-shadow: 5px 5px 18px ghostwhite;
+border: 1px solid;
+}
+
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div h4 
+{
+    background: aqua;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px ghostwhite;
+}
+
+.footer_div img
+{
+width: 70px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: lightcyan;
+    bottom: 0;
+    width: 100%;
+    background-color: ghostwhite;
+    line-height: 3;
+    text-align: center;
+}
